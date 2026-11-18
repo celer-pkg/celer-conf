@@ -1,2 +1,0 @@
-ports_baseline = "master"
-ports = ["gflags@2.2.2", "x264@stable"]

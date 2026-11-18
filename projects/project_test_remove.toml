@@ -1,2 +1,0 @@
-ports_baseline = "master"
-ports = ["glog@0.6.0", "x264@stable"]

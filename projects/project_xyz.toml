@@ -12,11 +12,10 @@ vars = [
 ]
 
 envs = [
-    "ENV_VAR1=/home/ubuntu/ccache",
-    "LLVM_CONFIG=${LLVM_CONFIG}",
+    "ENV_VAR1=hello",
 ]
 
 micros = [
-    "MICRO_VAR1=111",
-    "MICRO_VAR2"
+    "MICRO_VAR1=value1",
+    "MICRO_VAR2=value2"
 ]

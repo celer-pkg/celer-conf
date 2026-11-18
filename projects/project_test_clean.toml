@@ -1,2 +1,0 @@
-ports_baseline = "master"
-ports = ["x264@stable"]
