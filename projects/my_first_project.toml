@@ -15,7 +15,7 @@ envs = [
     "ENV_VAR1=hello",
 ]
 
-micros = [
+macros = [
     "MICRO_VAR1=value1",
     "MICRO_VAR2=value2"
 ]
